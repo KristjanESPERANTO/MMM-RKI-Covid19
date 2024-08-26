@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/fhinder/MMM-RKI-Covid19#readme",
   "dependencies": {
-    "native-request": "^1.1.0"
+    "native-request": "^1.1.2"
   }
 }
